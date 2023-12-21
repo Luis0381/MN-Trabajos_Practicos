@@ -4,7 +4,7 @@
 
 1. Resuelva los siguientes sistemas usando calculadora  
 
-a)
+a.    
 $$
 \begin{bmatrix}
 2 & 3 \\
@@ -21,7 +21,7 @@ x_2
 \end{bmatrix}
 $$
 
-b)
+b.    
 $$
 \begin{bmatrix}
 2 & 3 \\
