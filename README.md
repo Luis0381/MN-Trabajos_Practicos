@@ -2,12 +2,12 @@
 
 ## 📚 Enunciado
 
-Punto Nº3 - Sume con PYTHON x + y + z de las dos formas siguientes: x + (y + z) y (x + y) + z.
+3) Sume con PYTHON x + y + z de las dos formas siguientes: x + (y + z) y (x + y) + z.
 Explicar los resultados obtenidos cuando:
 a) x = 1.0, y = −5.0, z = 6.0
 b) x = 1 × 1020, y = −1 × 1020, z = 1.0
 
-Punto Nº6 - La serie infinita:
+6) La serie infinita:
 
 $$\sum_{i=1}^{\infty} \frac{1}{i^4}$$
 
