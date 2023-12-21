@@ -4,40 +4,23 @@
 
 1. Resuelva los siguientes sistemas usando calculadora    
    
-$$
-a)
-\begin{bmatrix}
-2 & 3 \\
-2 & 3.1 
-\end{bmatrix} 
-\begin{bmatrix}
-x_1 \\
-x_2 
-\end{bmatrix} 
-= 
-\begin{bmatrix}
-5 \\
-5.1 
-\end{bmatrix}
-$$
- 
-$$
-b)
-\begin{bmatrix}
-2 & 3 \\
-2 & 3.1 
-\end{bmatrix} 
-\begin{bmatrix}
-x_1 \\
-x_2
-\end{bmatrix} 
-= 
-\begin{bmatrix}
-5.001 \\
-5.1 
-\end{bmatrix}
+$$ a)
+\left\{
+\begin{array}{l}
+2x_1 + 3x_2 = 5 \\
+2x_1 + 3.1x_2 = 5.1
+\end{array}
+\right.
 $$
 
+$$ b)
+\left\{
+\begin{array}{l}
+2x_1 + 3x_2 = 5.001 \\
+2x_1 + 3.1x_2 = 5.1
+\end{array}
+\right.
+$$
 
 
 - Grafique ambos sistemas y concluya sobre los resultados obtenidos  
