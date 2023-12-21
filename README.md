@@ -3,9 +3,9 @@
 ## 📚 Enunciado
 
 1. Resuelva los siguientes sistemas usando calculadora  
-
-a.    
+   
 $$
+a)
 \begin{bmatrix}
 2 & 3 \\
 2 & 3.1 
@@ -20,9 +20,9 @@ x_2
 5.1 
 \end{bmatrix}
 $$
-
-b.    
+    
 $$
+b)
 \begin{bmatrix}
 2 & 3 \\
 2 & 3.1 
