@@ -2,25 +2,12 @@
 
 ## 📚 Enunciado
 
-1. Estimar mediante la regla de Simpson compuesta, la superficie del terreno de la figura. La superficie está acotada por dos carreteras que forman entre sí un ángulo recto y un río. Las coordenadas del trazado del río son las siguientes (dadas en metros):  
+1. Estimar mediante la regla de Simpson compuesta, la superficie del terreno. La superficie está acotada por dos carreteras que forman entre sí un ángulo recto y un río. Las coordenadas del trazado del río son las siguientes (dadas en metros):  
 
-<center>
+| X(m) | 0 | 100 | 200 | 300 | 400 | 500 | 600 | 700 | 800 | 900 | 1000 |
+|------|---|-----|-----|-----|-----|-----|-----|-----|-----|-----|------|
+| Y(m) | 125 | 125 | 120 | 112 | 90  | 90  | 95  | 88  | 75  | 35  | 0    |
 
-| X(m) | Y(m) |
-|:----:|:----:|
-| 0    | 125  |
-| 100  | 125  |
-| 200  | 120  |
-| 300  | 112  |
-| 400  | 90   |
-| 500  | 90   |
-| 600  | 95   |
-| 700  | 88   |
-| 800  | 75   |
-| 900  | 35   |
-| 1000 | 0    |
-
-</center>
 
 Programar en Python este método.  
 
@@ -35,7 +22,9 @@ Calcular aproximadamente el área de dicho terreno utilizando la regla de Trapec
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 | f(x)| 0.0 |2.122|3.024|3.257|3.140|2.858|2.514|2.164|1.836|
 
-Evaluar la siguiente integral usando Extrapolación de Richardson: $$ \int_{0}^{0.8} f(x) \, dx $$
+Evaluar la siguiente integral usando Extrapolación de Richardson: 
+
+$$ \int_{0}^{0.8} f(x) \, dx $$
 
 ## Construidos con 🛠️
 
