@@ -24,7 +24,7 @@ Calcular aproximadamente el área de dicho terreno utilizando la regla de Trapec
 
 Evaluar la siguiente integral usando Extrapolación de Richardson: 
 
-$$ \int_{0}^{0.8} f(x) \, dx $$
+$$ \int_{0}^{0.8} f(x) \ dx $$
 
 ## Construidos con 🛠️
 
