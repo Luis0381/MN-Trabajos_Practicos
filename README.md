@@ -2,7 +2,7 @@
 
 ## 📚 Enunciado
 
-1. Resuelva los siguientes sistemas usando calculadora  
+1. Resuelva los siguientes sistemas usando calculadora    
    
 $$
 a)
@@ -20,7 +20,7 @@ x_2
 5.1 
 \end{bmatrix}
 $$
-    
+ 
 $$
 b)
 \begin{bmatrix}
