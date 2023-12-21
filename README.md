@@ -9,15 +9,11 @@ b) x = 1 × 1020, y = −1 × 1020, z = 1.0
 
 6) La serie infinita:
 
-\[
-\sum_{i=1}^{\infty} \frac{1}{{i^4}} = 1 + \frac{1}{{2^4}} + \frac{1}{{3^4}} + \frac{1}{{4^4}} + \ldots
-\]
+$$\sum_{i=1}^{\infty} \frac{1}{i^4}$$
 
 converge a un valor de:
 
-\[
-\frac{{\pi^4}}{{90}}
-\]
+$$\frac{\pi^4}{90}$$
 
 conforme n tiende a infinito. Escriba un programa de simple precisión para calcular
 f(n) para n=10000 por medio del cálculo de la suma desde i = 1 hasta 10000. Después
