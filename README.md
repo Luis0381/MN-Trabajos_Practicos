@@ -4,7 +4,8 @@
 
 1. Resuelva los siguientes sistemas usando calculadora    
    
-$$ a)
+a.  
+$$ 
 \left\{
 \begin{array}{l}
 2x_1 + 3x_2 = 5 \\
@@ -13,7 +14,8 @@ $$ a)
 \right.
 $$
 
-$$ b)
+b.  
+$$ 
 \left\{
 \begin{array}{l}
 2x_1 + 3x_2 = 5.001 \\
