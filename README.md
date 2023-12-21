@@ -4,7 +4,8 @@
 
 1. Resuelva los siguientes sistemas usando calculadora    
    
-a.  
+Apartado A  
+
 $$ 
 \left\{
 \begin{array}{l}
@@ -14,7 +15,8 @@ $$
 \right.
 $$
 
-b.  
+Apartado B  
+
 $$ 
 \left\{
 \begin{array}{l}
